@@ -1,37 +1,21 @@
 # 🚖 Uber Trip Analysis Dashboard
 
-An interactive Power BI dashboard built to analyze Uber trip data, uncover booking trends, monitor operational KPIs, and generate business insights through data visualization.
+An interactive Power BI dashboard for analyzing Uber trip data, booking trends, revenue, and operational KPIs.
 
 ---
 
-## 📌 Project Overview
+## 📌 Overview
 
-This project analyzes Uber trip data to identify customer behavior, booking trends, trip efficiency, and revenue-related metrics using Power BI.
-
-The dashboard enables users to explore booking patterns, payment methods, trip distances, cancellation rates, and other key performance indicators.
+This project provides business insights from Uber trip data using interactive Power BI dashboards. It enables users to analyze bookings, revenue, trip distance, vehicle performance, and customer behavior.
 
 ---
 
-## 🚀 Features
-
-- Interactive Power BI Dashboard
-- Booking & Revenue Analysis
-- Trip Distance Analysis
-- Payment Method Distribution
-- Vehicle Type Performance
-- Time-based Trend Analysis
-- KPI Cards and Filters
-- Dynamic Visualizations
-
----
-
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - Power BI
 - Power Query
 - DAX
 - Microsoft Excel
-- Data Visualization
 
 ---
 
@@ -39,55 +23,80 @@ The dashboard enables users to explore booking patterns, payment methods, trip d
 
 ```
 UBER_Analysis/
-│
-├── Data/
-│   └── Uber Dataset
-│
-├── Images/
-│   ├── Dashboard1.png
-│   ├── Dashboard2.png
-│
-├── UBER DASHBOARD.pbix
+│── Data/
+│── Images/
+│── UBER DASHBOARD.pbix
 └── README.md
 ```
 
 ---
 
-## 📊 Dashboard Preview
+# 📊 Dashboard Preview
 
-### Overview Dashboard
+## Dashboard 1 – Overview
 
-![Dashboard](Images/dashboard.png)
+<p align="center">
+  <img src=""D:\Msc data science\PROJECTS\UBER ANALYSIS\UBER ANALYSIS\Images\Screenshot 2026-05-24 131556.png"" width="900">
+</p>
 
-> Replace the image name with your actual screenshot.
+---
+
+## Dashboard 2 – Booking Analysis
+
+<p align="center">
+  <img src="Images/dashboard2.png" width="900">
+</p>
+
+---
+
+## Dashboard 3 – Vehicle Performance
+
+<p align="center">
+  <img src="Images/dashboard3.png" width="900">
+</p>
+
+---
+
+## Dashboard 4 – Revenue & Trends
+
+<p align="center">
+  <img src="Images/dashboard4.png" width="900">
+</p>
+
+---
+
+## ✨ Key Features
+
+- Interactive KPI Cards
+- Booking Trend Analysis
+- Revenue Analysis
+- Vehicle Performance
+- Payment Method Analysis
+- Time-based Filtering
+- Dynamic Slicers
+- Business Insights
 
 ---
 
 ## 📈 Key Insights
 
 - Identified booking trends across different time periods.
-- Analyzed vehicle-wise trip distribution.
-- Compared payment methods and ride preferences.
-- Evaluated trip distance and booking patterns.
-- Created KPI cards for quick business insights.
+- Compared vehicle-wise ride performance.
+- Analyzed payment methods and customer preferences.
+- Monitored revenue and booking KPIs.
+- Created interactive dashboards for business decision-making.
 
 ---
 
 ## ▶️ How to Use
 
-1. Clone this repository
+1. Clone the repository
 
 ```bash
 git clone https://github.com/Hiteshi25/UBER_Analysis.git
 ```
 
-2. Open
-
-```
-UBER DASHBOARD.pbix
-```
-
-using Microsoft Power BI Desktop.
+2. Open `UBER DASHBOARD.pbix` using Microsoft Power BI Desktop.
 
 ---
 
@@ -97,7 +106,3 @@ using Microsoft Power BI Desktop.
 
 - GitHub: https://github.com/Hiteshi25
 - LinkedIn: https://linkedin.com/in/your-linkedin
-
----
-
-⭐ If you found this project useful, consider giving it a star.
