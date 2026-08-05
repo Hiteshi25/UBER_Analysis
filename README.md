@@ -33,34 +33,8 @@ UBER_Analysis/
 
 # 📊 Dashboard Preview
 
-## Dashboard 1 – Overview
-
 <p align="center">
   <img src=""D:\Msc data science\PROJECTS\UBER ANALYSIS\UBER ANALYSIS\Images\Screenshot 2026-05-24 131556.png"" width="900">
-</p>
-
----
-
-## Dashboard 2 – Booking Analysis
-
-<p align="center">
-  <img src="Images/dashboard2.png" width="900">
-</p>
-
----
-
-## Dashboard 3 – Vehicle Performance
-
-<p align="center">
-  <img src="Images/dashboard3.png" width="900">
-</p>
-
----
-
-## Dashboard 4 – Revenue & Trends
-
-<p align="center">
-  <img src="Images/dashboard4.png" width="900">
 </p>
 
 ---
