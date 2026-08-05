@@ -34,7 +34,7 @@ UBER_Analysis/
 # 📊 Dashboard Preview
 
 <p align="center">
-  <img src=""D:\Msc data science\PROJECTS\UBER ANALYSIS\UBER ANALYSIS\Images\Screenshot 2026-05-24 131556.png"" width="900">
+  <img src="D:\Msc data science\PROJECTS\UBER ANALYSIS\UBER ANALYSIS\Images\Screenshot 2026-05-24 131556.png" width="900">
 </p>
 
 ---
